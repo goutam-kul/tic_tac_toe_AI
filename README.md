@@ -1,5 +1,5 @@
 # Tic Toc Toe AI
-![Demo](https://github.com/user-attachments/assets/606e52bc-6a72-4303-9243-72a2b17250fd)
+![Image](https://github.com/user-attachments/assets/9341907d-1e91-4a32-9212-c36b3e0ac131)
 
 # Technology 
 #### Reinforcement Learning (Q-Learning)
